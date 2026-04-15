@@ -39,7 +39,9 @@ The project demonstrates how RPA can be used to eliminate manual work in data ha
 
 ## 📂 Project Structure
 RPA-Excel-Automation/
+
 │
+
 ├── Main.xaml              # Main automation workflow  
 ├── project.json           # Project configuration  
 └── README.md              # Documentation  
