@@ -67,7 +67,7 @@ RPA-Excel-Automation/
 ### 🔹 Steps to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/shinchan-777/rpa-excel-automation.git
+   git clone https://github.com/shinchan-777/RPA_Excel_Automation.git
 
 # 📌 Use Cases
 📊 Data entry automation
